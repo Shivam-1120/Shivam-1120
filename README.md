@@ -1,19 +1,105 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate aspiring frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
-
-- 🌱 I’m currently learning **javascript, java**
-
-- 📫 How to reach me **shivam.devx@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivamkumar1120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamkumar1120" height="30" width="40" /></a>
-<a href="https://instagram.com/shivam_k.1120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam_k.1120" height="30" width="40" /></a>
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:2b2b2b&height=170&section=header&text=Shivam%20Developer%20%26%20Designer&fontColor=ffffff&fontSize=38&animation=fadeIn"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- ================= TYPING EFFECT ================= -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=550&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+%26+Three.js+Explorer;IoT+%2B+ESP32+Builder"
+    alt="Typing Effect"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-1120&show_icons=true&locale=en&layout=compact" alt="shivam-1120" /></p>
+---
+
+## 👋 About Me
+
+I’m **Shivam**, a **developer & designer** who enjoys crafting  
+clean interfaces, smooth interactions, and modern web experiences.
+
+I like my UI **minimal**, my animations **subtle**,  
+and my code **easy to vibe with**.
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://shivamdevx.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a><br/>
+
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a><br/>
+
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a><br/>
+
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Core Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-2a2a2a?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-2a2a2a?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-2a2a2a?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+Focused on logic, problem-solving, and writing clean, maintainable code.
+
+---
+
+## 🧩 Frontend Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/React-2a2a2a?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-2a2a2a?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-2a2a2a?style=for-the-badge&logo=three.js&logoColor=white"/>
+</p>
+
+Building responsive, animated, and modern user interfaces.
+
+---
+
+## 🎨 Design & UX
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-2a2a2a?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-2a2a2a?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-2a2a2a?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-2a2a2a?style=for-the-badge&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-2a2a2a?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+Designing clean layouts, balanced visuals, and intuitive experiences.
+
+---
+
+## 🔌 Arduino & IoT
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-2a2a2a?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-2a2a2a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT-2a2a2a?style=for-the-badge"/>
+</p>
+
+Exploring the intersection of hardware and software.
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:1f1f1f&height=120&section=footer"
+  />
+</p>
