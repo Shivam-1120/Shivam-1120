@@ -1,8 +1,17 @@
 <!-- ================= HEADER ================= -->
+<h1 align="center">
+  Shivam — Developer & Designer
+</h1>
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:2b2b2b&height=170&section=header&text=Shivam%20Developer%20%26%20Designer&fontColor=ffffff&fontSize=38&animation=fadeIn"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+%26+Three.js+Explorer;IoT+%2B+ESP32+Builder"
+    alt="Typing Animation"
   />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a6f8e1f-8c96-4db5-9b0b-90a2e6c8c7c1.gif" width="600"/>
 </p>
 
 <!-- ================= TYPING EFFECT ================= -->
